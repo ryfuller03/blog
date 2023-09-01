@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "Introduction Post"
 ---
 
 Making this blog was not that difficult! The overall process was pretty straight forward. Getting things set up through Github and organizing the files in the minima layout was new, but nothing too hard to comprehend and work out. I am still confused, however, how [this blog](https://ryfuller03.github.io/blog) is linked to my [Github Page](https://ryfuller03.github.io). I understand that Github does it for you, but I still want to know *how* it exactly works.
