@@ -5,3 +5,36 @@
 @import
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
+
+body {
+  background-color: rgb(244, 239, 234);
+}
+
+footer {
+  background-color: darkgreen;
+}
+
+.site-header {
+  background-color: darkgreen;
+  color: white;
+}
+
+.post {
+  padding: 20px;
+}
+
+.page {
+  padding: 20px;
+}
+
+.p-name {
+  color: rgb(244, 239, 234);
+}
+
+.footer-col {
+  color:rgb(244, 239, 234);
+}
+
+.feed-subscribe {
+  color:rgb(244, 239, 234);
+}
