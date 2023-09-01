@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Introduction Post
 author: Ryan Fuller
 ---
 
