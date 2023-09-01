@@ -1,7 +1,7 @@
 title: Ryan's Blog
-author: ryfuller03
-name: Ryan Fuller
-email: fullerra@hendrix.edu
+author:
+  name: Ryan Fuller
+  email: fullerra@hendrix.edu
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
