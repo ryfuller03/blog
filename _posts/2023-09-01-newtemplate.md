@@ -2,17 +2,23 @@
 layout: post
 title: Lab 3 - New Template
 author: Ryan Fuller
+excerpt: "A new template created by me!"
 permalink: /newtemplate/
+image: "/images/musicchanged.png"
 ---
 
 ## **I did it!**
 This lab was not the most complicated, as most things were set up for us, but other than the first website we made, it was the most like a lab from previous courses--that is, it gives us a template/already laid-out project and asks us to go in and change things. I created the [Music](https://ryfuller03.github.io/blog/music) as a sort of dummy file, edited the [About](https://ryfuller03.github.io/blog/about) section to actually include information about me, and added some fun colors! I'm a big fan of dark green and this kind of off-white color, and I feel like they went a long way here. I also changed the color of the text on posts to fit the green/off-white palette. Here's the music page and what it looks like *before* I changed its text body color:
 
-![Image](../assets/images/musicunchanged.png)
+<span>
+<img src="../images/musicunchanged.png" width=850>
+</span>
 
 And here it is *after* I changed the text color to match the rest of the website:
 
-![Image](../assets/images/musicchanged.png)
+<span>
+<img src="../images/musicchanged.png" width=850>
+</span>
 
 The change is very subtle, but it makes the posts of the website feel much more cohesive and integrated.
 

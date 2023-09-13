@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Introduction Post
+date: 2023-08-30
+excerpt: "The first post on my new blog!"
 author: Ryan Fuller
 ---
 

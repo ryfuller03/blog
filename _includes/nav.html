@@ -1,0 +1,10 @@
+<ul class="links">
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home Page</a></li>
+  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/music/" | absolute_url }}">Music</a></li>
+  <li><a href="https://hendrix-cs.github.io/csci340/index.html">CSCI 340</a></li>
+  <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
+</ul>
+
+<ul class="icons">
+  <li><a href="https://github.com/ryfuller03" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
+</ul>
