@@ -3,11 +3,17 @@ title:              Ryan's Blog
 bio:                "Ryan's blog for Databases and Web Systems"
 description:        "Ryan's blog for Databases and Web Systems"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Social
 analytics-id:       "default"
@@ -17,8 +23,6 @@ instagram:          default
 github:             https://github.com/ryfuller03
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
 email:              fullerra@hendrix.edu # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
@@ -63,6 +67,9 @@ paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
     base_url: https://github.com
+
+minima:
+  - { platform: github, user_url: "https://github.com/ryfuller03"}
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
