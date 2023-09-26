@@ -3,11 +3,6 @@ title:              Ryan's Blog
 bio:                "Ryan's blog for Databases and Web Systems"
 description:        "Ryan's blog for Databases and Web Systems"
 locale:             en_US
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
-
-# Comments
-disqus_shortname:   default
 
 plugins_dir:
   - jekyll-feed
