@@ -3,6 +3,8 @@ title:              Ryan's Blog
 bio:                "Ryan's blog for Databases and Web Systems"
 description:        "Ryan's blog for Databases and Web Systems"
 locale:             en_US
+baseurl: /blog
+url: http://ryfuller03.github.io
 
 plugins_dir:
   - jekyll-feed
@@ -28,12 +30,12 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/blog/:title/"
+    permalink: "/:title/"
     layout: post
     author:
 
 # Jekyll
-permalink:          /blog/:title/
+permalink:          "/:title/"
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -56,7 +58,7 @@ gems:
   - jekyll-paginate
 
 paginate: 6
-paginate_path: "/blog/page:num/"
+paginate_path: "/page:num/"
 
 jekyll-mentions:
     base_url: https://github.com
