@@ -3,8 +3,6 @@ title:              Ryan's Blog
 bio:                "Ryan's blog for Databases and Web Systems"
 description:        "Ryan's blog for Databases and Web Systems"
 locale:             en_US
-baseurl: /blog
-url: http://ryfuller03.github.io
 
 plugins_dir:
   - jekyll-feed
@@ -35,7 +33,7 @@ defaults:
     author:
 
 # Jekyll
-permalink:          "/:title/"
+permalink:          /:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -61,10 +59,12 @@ paginate: 6
 paginate_path: "/page:num/"
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: http://github.com
 
 minima:
   - { platform: github, user_url: "https://github.com/ryfuller03"}
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
+baseurl: /blog
+url: https://ryfuller03.github.io
