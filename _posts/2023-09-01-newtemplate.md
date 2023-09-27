@@ -4,7 +4,7 @@ title: Lab 3 - New Template
 author: Ryan Fuller
 excerpt: "A new template created by me!"
 permalink: /newtemplate/
-image: "blog/images/musicchanged.png"
+image: "/blog/images/musicchanged.png"
 ---
 
 ## **I did it!**
