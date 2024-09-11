@@ -3,7 +3,6 @@ layout: post
 title: First Week as a Disco Tray Member
 author: Ryan Fuller
 excerpt: "I made it into Disco Tray!"
-permalink: /firstdisco/
 ---
 
 I just became a member of Disco Tray Studios at Hendrix! It's a team of student developers led by one of our professors that works on different apps and websites for our school and other clients. My first assignment is a website for the Hendrix Student Outreach Services (SOS) Program, and I am ecstatic to get started! It's a bit bumpy right now, though, as I can't debug the website because of this odd error:
